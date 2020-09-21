@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [x]React Native
 - [x]Styled Components
-- [x]React Native
+- [x]React Navigation
 
 ## 💻 Projeto
 
